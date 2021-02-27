@@ -1,0 +1,2 @@
+D:\dev\c++\serialRecording\serialRecording\Debug\serialRecording.exe
+D:\dev\c++\serialRecording\serialRecording\Debug\serialRecording.pdb
